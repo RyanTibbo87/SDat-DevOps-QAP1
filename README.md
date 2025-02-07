@@ -1,7 +1,6 @@
 # SDat-DevOps-QAP1 - Ryan Tibbo
 <br />
 <br />
-<br />
 ![image](https://github.com/user-attachments/assets/a057fa7a-063c-4e65-84e3-de510b10d3f8)
 
 
