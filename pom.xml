@@ -14,7 +14,7 @@
 
     <!-- Dependencies -->
     <dependencies>
-        <!-- JUnit 5 for Unit Testing -->
+        <!-- JUnit 5 Dependency -->
         <dependency>
             <groupId>org.junit.jupiter</groupId>
             <artifactId>junit-jupiter</artifactId>
@@ -22,6 +22,7 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
+
 
     <!-- Build Plugins -->
     <build>
