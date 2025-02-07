@@ -1,4 +1,3 @@
-package src.main.java;
 public class Game {
     private String name;
     private double price;
