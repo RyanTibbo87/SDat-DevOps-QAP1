@@ -1,0 +1,37 @@
+# Maven build files
+target/
+*.log
+
+# Eclipse-specific files
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA-specific files
+.idea/
+*.iml
+*.iws
+out/
+
+# VS Code-specific files
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+*.bak
+
+# JAR and compiled files
+*.jar
+*.war
+*.ear
+*.class
+
+# Logs and temporary files
+*.log
+hs_err_pid*
